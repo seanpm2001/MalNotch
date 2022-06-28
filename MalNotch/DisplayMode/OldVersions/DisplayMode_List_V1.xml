@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Legend
+Notch X-S = Notch X start (starting pixel of the notch) (width)
+Notch X-E = Notch X end (ending pixel of the notch) (width)
+Notch Y-S = Notch Y start (starting pixel of the notch) (height)
+Notch Y-E = Notch Y end (ending pixel of the notch) (height)
+Note: this file is highly incomplete
+!-->
+<!-- Start of script !-->
+<xml>
+  <display_mode>
+    <list>
+      <mobile>
+        <deviceName>
+          <Samsung>
+            <galaxy>
+              <s20>
+                <samsung-galaxy-s20>
+                  <!-- I don't have a precise number yet !-->
+                  <notch-x-s>700</notch-x-s>
+                  <notch-x-e>800</notch-x-e>
+                  <notch-y-s>2200</notch-x-s>
+                  <notch-y-e>2350</notch-x-e>
+                </samsung-galaxy-s20>
+                <samsung-galaxy-s20-plus>
+                  <!-- I don't have a precise number yet !-->
+                  <notch-x-s>700</notch-x-s>
+                  <notch-x-e>800</notch-x-e>
+                  <notch-y-s>2200</notch-x-s>
+                  <notch-y-e>2350</notch-x-e>
+                </samsung-galaxy-s20-plus>
+                <samsung-galaxy-s20-ultra>
+                  <!-- I don't have a precise number yet !-->
+                  <notch-x-s>700</notch-x-s>
+                  <notch-x-e>800</notch-x-e>
+                  <notch-y-s>2200</notch-x-s>
+                  <notch-y-e>2350</notch-x-e>
+                </samsung-galaxy-s20-ultra>
+                <samsung-galaxy-s20-fe>
+                  <!-- I don't have a precise number yet !-->
+                  <notch-x-s>700</notch-x-s>
+                  <notch-x-e>800</notch-x-e>
+                  <notch-y-s>2200</notch-x-s>
+                  <notch-y-e>2350</notch-x-e>
+                </samsung-galaxy-s20-fe>
+                <samsung-galaxy-s20-fe-2022>
+                  <!-- I don't have a precise number yet !-->
+                  <notch-x-s>700</notch-x-s>
+                  <notch-x-e>800</notch-x-e>
+                  <notch-y-s>2200</notch-x-s>
+                  <notch-y-e>2350</notch-x-e>
+                </samsung-galaxy-s20-fe-2022>
+              </s20>
+              <s21>
+                <samsung-galaxy-s21>
+                  <!-- I don't have a precise number yet !-->
+                  <notch-x-s>700</notch-x-s>
+                  <notch-x-e>800</notch-x-e>
+                  <notch-y-s>2200</notch-x-s>
+                  <notch-y-e>2350</notch-x-e>
+                </samsung-galaxy-s21>
+                <samsung-galaxy-s21-plus>
+                  <!-- I don't have a precise number yet !-->
+                  <notch-x-s>700</notch-x-s>
+                  <notch-x-e>800</notch-x-e>
+                  <notch-y-s>2200</notch-x-s>
+                  <notch-y-e>2350</notch-x-e>
+                </samsung-galaxy-s21-plus>
+                <samsung-galaxy-s21-ultra>
+                  <!-- I don't have a precise number yet !-->
+                  <notch-x-s>700</notch-x-s>
+                  <notch-x-e>800</notch-x-e>
+                  <notch-y-s>2200</notch-x-s>
+                  <notch-y-e>2350</notch-x-e>
+                </samsung-galaxy-s21-ultra>
+                <samsung-galaxy-s21-fe>
+                  <!-- I don't have a precise number yet !-->
+                  <notch-x-s>700</notch-x-s>
+                  <notch-x-e>800</notch-x-e>
+                  <notch-y-s>2200</notch-x-s>
+                  <notch-y-e>2350</notch-x-e>
+                </samsung-galaxy-s21-fe>
+              </s21>
+              <s22>
+                <samsung-galaxy-s22>
+                  <!-- I don't have a precise number yet !-->
+                  <notch-x-s>700</notch-x-s>
+                  <notch-x-e>800</notch-x-e>
+                  <notch-y-s>2200</notch-x-s>
+                  <notch-y-e>2350</notch-x-e>
+                </samsung-galaxy-s22>
+                <samsung-galaxy-s22-plus>
+                  <!-- I don't have a precise number yet !-->
+                  <notch-x-s>700</notch-x-s>
+                  <notch-x-e>800</notch-x-e>
+                  <notch-y-s>2200</notch-x-s>
+                  <notch-y-e>2350</notch-x-e>
+                </samsung-galaxy-s22-plus>
+                <samsung-galaxy-s22-ultra>
+                  <!-- I don't have a precise number yet !-->
+                  <notch-x-s>700</notch-x-s>
+                  <notch-x-e>800</notch-x-e>
+                  <notch-y-s>2200</notch-x-s>
+                  <notch-y-e>2350</notch-x-e>
+                </samsung-galaxy-s22-ultra>
+                <samsung-galaxy-s22-fe>
+                  <!-- I don't have a precise number yet !-->
+                  <notch-x-s>700</notch-x-s>
+                  <notch-x-e>800</notch-x-e>
+                  <notch-y-s>2200</notch-x-s>
+                  <notch-y-e>2350</notch-x-e>
+                </samsung-galaxy-s22-fe>
+              </s22>
+            </galaxy>
+          </Samsung>
+          <apple>
+            <iPhone>
+                <iPhoneX>
+                    <iPhone-X>
+                      <!-- Screen resolution reference: 2436x1125
+                      H: 143.6 mm (5.65 in)
+                      W: 70.9 mm (2.79 in)
+                      D: 7.7 mm (0.30 in)
+                      !-->
+                      <!-- I don't have a precise number yet !-->
+                      <notch-x-s>150</notch-x-s>
+                      <notch-x-e>1040</notch-x-e>
+                      <notch-y-s>2000</notch-x-s>
+                      <notch-y-e>2436</notch-x-e>      
+                  </iPhone-X>
+                </iPhoneX>
+                <iPhoneXS>
+                    <iPhone-XS>
+                      <!-- Screen resolution reference:
+                      iPhone XS: 2436x1125
+                      H: 143.6 mm (5.65 in)
+                      W: 70.9 mm (2.79 in)
+                      D: 7.7 mm (0.30 in)
+                      !-->
+                      <!-- I don't have a precise number yet !-->
+                      <notch-x-s>150</notch-x-s>
+                      <notch-x-e>1040</notch-x-e>
+                      <notch-y-s>2000</notch-x-s>
+                      <notch-y-e>2436</notch-x-e>   
+                    </iPhone-XS>
+                    <iPhone-XS-Max>
+                      <!-- Screen resolution reference:
+                      iPhone XS Max: 2688x1242
+                      H: 157.5 mm (6.20 in)
+                      W: 77.4 mm (3.05 in)
+                      D: 7.7 mm (0.30 in)
+                      !-->
+                      <!-- I don't have a precise number yet !-->
+                      <notch-x-s>150</notch-x-s>
+                      <notch-x-e>1040</notch-x-e>
+                      <notch-y-s>2000</notch-x-s>
+                      <notch-y-e>2436</notch-x-e>   
+                    </iPhone-XS-Max>
+                </iPhoneX>
+                <iPhone11>
+                    <iPhone-11>
+                      <!-- Screen resolution reference:
+                      iPhone 11: 1792x828
+	                  H: 150.9 mm (5.94 in)
+                      W: 75.7 mm (2.98 in)
+                      D: 8.3 mm (0.33 in)              
+                      !-->
+                      <!-- I don't have a precise number yet !-->
+                      <notch-x-s>150</notch-x-s>
+                      <notch-x-e>1040</notch-x-e>
+                      <notch-y-s>2000</notch-x-s>
+                      <notch-y-e>2436</notch-x-e>
+                    </iPhone-11>
+                    <iPhone-11-Pro>
+                      <!-- Screen resolution reference:
+                      iPhone 11 Pro: 2436x1125
+                      H: 144 mm (5.7 in)
+                      W: 71.4 mm (2.81 in)
+                      D: 8.1 mm (0.32 in)
+                      !-->
+                      <!-- I don't have a precise number yet !-->
+                      <notch-x-s>150</notch-x-s>
+                      <notch-x-e>1040</notch-x-e>
+                      <notch-y-s>2000</notch-x-s>
+                      <notch-y-e>2436</notch-x-e>
+                    </iPhone-11-Pro>
+                    <iPhone-11-Pro-Max>
+                      <!-- Screen resolution reference:
+                      iPhone 11 Pro Max: 2688x1242
+                      H: 158 mm (6.2 in)
+                      W: 77.8 mm (3.06 in)
+                      D: 8.1 mm (0.32 in)
+                      !-->
+                      <!-- I don't have a precise number yet !-->
+                      <notch-x-s>150</notch-x-s>
+                      <notch-x-e>1040</notch-x-e>
+                      <notch-y-s>2000</notch-x-s>
+                      <notch-y-e>2436</notch-x-e>
+                    </iPhone-11-Pro-Max>
+                </iPhone11>
+                <iPhone12>
+                    <iPhone-12>
+                      <!-- Screen resolution reference:
+                      iPhone 12: 2532x1170
+                      H: 146.7 mm (5.78 in)
+                      W: 71.5 mm (2.81 in)
+                      D: 7.4 mm (0.29 in)
+                      !-->
+                      <!-- I don't have a precise number yet !-->
+                      <notch-x-s>150</notch-x-s>
+                      <notch-x-e>1040</notch-x-e>
+                      <notch-y-s>2000</notch-x-s>
+                      <notch-y-e>2436</notch-x-e>
+                    </iPhone-12>
+                    <iPhone-12-mini>
+                      <!-- Screen resolution reference:
+                      iPhone 12 Mini: 2340x1080
+                      H: 131.5 mm (5.18 in)
+                      W: 64.2 mm (2.53 in)
+                      D: 7.4 mm (0.29 in)   
+                      !-->  
+                      <!-- I don't have a precise number yet !-->
+                      <notch-x-s>150</notch-x-s>
+                      <notch-x-e>1040</notch-x-e>
+                      <notch-y-s>2000</notch-x-s>
+                      <notch-y-e>2436</notch-x-e>
+                    </iPhone-12-mini>
+                    <iPhone-12-Pro>
+                      <!-- Screen resolution reference:
+                      iPhone 12 Pro: 2532x1170
+                      H: 146.7 mm (5.78 in)
+                      W: 71.5 mm (2.81 in)
+                      D: 7.4 mm (0.29 in)
+                      !-->  
+                      <!-- I don't have a precise number yet !-->
+                      <notch-x-s>150</notch-x-s>
+                      <notch-x-e>1040</notch-x-e>
+                      <notch-y-s>2000</notch-x-s>
+                      <notch-y-e>2436</notch-x-e>
+                    </iPhone-12-Pro>
+                    <iPhone-12-Pro-Max>
+                      <!-- Screen resolution reference:
+                      iPhone 12 Pro Max: 2778x1284
+                      H: 160.8 mm (6.33 in)
+                      W: 78.1 mm (3.07 in)
+                      D: 7.4 mm (0.29 in)
+                      !-->  
+                      <!-- I don't have a precise number yet !-->
+                      <notch-x-s>150</notch-x-s>
+                      <notch-x-e>1040</notch-x-e>
+                      <notch-y-s>2000</notch-x-s>
+                      <notch-y-e>2436</notch-x-e>
+                    </iPhone-12-Pro-Max>
+                </iPhone12>
+                <iPhone13>
+                    <iPhone-13>
+                      <!-- Screen resolution reference:
+                      iPhone 13: 2532x1170
+                      H: 146.7 mm (5.78 in)
+                      W: 71.5 mm (2.81 in)
+                      D: 7.65 mm (0.301 in)
+                      !-->
+                      <!-- I don't have a precise number yet !-->
+                      <notch-x-s>150</notch-x-s>
+                      <notch-x-e>1040</notch-x-e>
+                      <notch-y-s>2000</notch-x-s>
+                      <notch-y-e>2436</notch-x-e>
+                    </iPhone-13>
+                    <iPhone-13-mini>
+                      <!-- Screen resolution reference:
+                      iPhone 13 Mini: 2340x1080
+                      H: 131.5 mm (5.18 in)
+                      W: 64.2 mm (2.53 in)
+                      D: 7.65 mm (0.301 in)
+                      !-->  
+                      <!-- I don't have a precise number yet !-->
+                      <notch-x-s>150</notch-x-s>
+                      <notch-x-e>1040</notch-x-e>
+                      <notch-y-s>2000</notch-x-s>
+                      <notch-y-e>2436</notch-x-e>
+                    </iPhone-13-mini>
+                    <iPhone-13-Pro>
+                      <!-- Screen resolution reference:
+                      iPhone 13 Pro: 2532x1170
+                      H: 146.7 mm (5.78 in)
+                      W: 71.5 mm (2.81 in)
+                      D: 7.65 mm (0.301 in)
+                      !-->  
+                      <!-- I don't have a precise number yet !-->
+                      <notch-x-s>150</notch-x-s>
+                      <notch-x-e>1040</notch-x-e>
+                      <notch-y-s>2000</notch-x-s>
+                      <notch-y-e>2436</notch-x-e>
+                    </iPhone-13-Pro>
+                    <iPhone-13-Pro-Max>
+                      <!-- Screen resolution reference:
+                      iPhone 13 Pro Max: 2778x1284
+                      H: 160.8 mm (6.33 in)
+                      W: 78.1 mm (3.07 in)
+                      D: 7.65 mm (0.301 in)
+                      !-->  
+                      <!-- I don't have a precise number yet !-->
+                      <notch-x-s>150</notch-x-s>
+                      <notch-x-e>1040</notch-x-e>
+                      <notch-y-s>2000</notch-x-s>
+                      <notch-y-e>2436</notch-x-e>
+                    </iPhone-13-Pro-Max>
+                </iPhone13>
+            </iPhone>
+            <iPad>
+                <coming-soon>Coming soon</coming-soon>    
+            </iPad>
+          </apple>
+        </deviceName>
+      </mobile>
+      <desktop>
+        <apple>
+            <coming-soon>Coming soon</coming-soon>
+        </apple>
+        <samsung>
+            <coming-soon>Coming soon</coming-soon>
+        </samsung>
+        <microsoft>
+            <coming-soon>Coming soon</coming-soon>
+        </microsoft>
+      </desktop>
+    </list>
+  </display_mode>
+</xml>
+<!-- Notes
+As far as I can tell, iPhone 8 and below do not have a notch, so notch support starts with the iPhone X
+As far as I can tell, Samsung Galaxy S10 and below do not have a notch, so notch support starts with the Samsung Galaxy S20 in that flagship
+Several Samsung models are not compatible yet
+iPad support is coming soon
+iMac/Macbook support is coming soon
+Other Samsung device support is coming soon
+Microsoft device support is coming soon
+This file is highly incomplete
+Screen resolution reference comments are not available for Samsung devices yet
+!-->
+<!-- File info
+File type: XML source file (*.xml)
+File version: 1 (2022, Monday, June 27th at 7:47 pm PST
+Line count (including blank lines and compiler line): 348
+!-->
+<!-- End of script !-->
