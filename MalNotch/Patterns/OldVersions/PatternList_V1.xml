@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Legend
+Notch X-S = Notch X start (starting pixel of the notch) (width)
+Notch X-E = Notch X end (ending pixel of the notch) (width)
+Notch Y-S = Notch Y start (starting pixel of the notch) (height)
+Notch Y-E = Notch Y end (ending pixel of the notch) (height)
+Note: this file is highly incomplete
+!-->
+<!-- Start of script !-->
+<!-- Patterns for MaldNotch !-->
+<xml>
+  <patterns>-
+    <list>
+      <nsfw>
+        <flesh>
+          <human>
+            <!-- You will have to supply these on your own !-->
+            <unavailable-from-main-distribution>This texture pack is unavailable from the main distribution, and must be obtained by a third party</unavailable-from-main-distribution>
+          </human>
+        </flesh>
+        <political>
+          <!-- You will have to supply these on your own !-->
+          <!-- Political patterns are based on what is/isn't allowed in the source country, NOT just the politics of the country itself !-->
+          <afghanistan>
+            <unavailable-from-main-distribution>This texture pack is unavailable from the main distribution, and must be obtained by a third party</unavailable-from-main-distribution>
+          </afghanistan>
+          <armenia>
+            <unavailable-from-main-distribution>This texture pack is unavailable from the main distribution, and must be obtained by a third party</unavailable-from-main-distribution>
+          </armenia>
+          <azerbaijan>
+            <unavailable-from-main-distribution>This texture pack is unavailable from the main distribution, and must be obtained by a third party</unavailable-from-main-distribution>
+          </azerbaijan>
+          <bulgaria>
+            <unavailable-from-main-distribution>This texture pack is unavailable from the main distribution, and must be obtained by a third party</unavailable-from-main-distribution>   
+          </bulgaria>
+          <bosnia>
+            <unavailable-from-main-distribution>This texture pack is unavailable from the main distribution, and must be obtained by a third party</unavailable-from-main-distribution>
+          </bosnia>
+          <croatia>
+            <unavailable-from-main-distribution>This texture pack is unavailable from the main distribution, and must be obtained by a third party</unavailable-from-main-distribution>
+          </croatia>
+          <czech-republic>
+            <unavailable-from-main-distribution>This texture pack is unavailable from the main distribution, and must be obtained by a third party</unavailable-from-main-distribution>
+          </czeck-republic>
+          <denmark>
+            <unavailable-from-main-distribution>This texture pack is unavailable from the main distribution, and must be obtained by a third party</unavailable-from-main-distribution>
+          </denmark>
+          <germany>
+            <unavailable-from-main-distribution>This texture pack is unavailable from the main distribution, and must be obtained by a third party</unavailable-from-main-distribution>
+          </germany>
+          <hungary>
+            <unavailable-from-main-distribution>This texture pack is unavailable from the main distribution, and must be obtained by a third party</unavailable-from-main-distribution>
+          </hungary>
+          <india>
+            <unavailable-from-main-distribution>This texture pack is unavailable from the main distribution, and must be obtained by a third party</unavailable-from-main-distribution>
+          </india>
+          <indonesia>
+            <unavailable-from-main-distribution>This texture pack is unavailable from the main distribution, and must be obtained by a third party</unavailable-from-main-distribution>
+          </indonesia>
+          <iceland>
+            <unavailable-from-main-distribution>This texture pack is unavailable from the main distribution, and must be obtained by a third party</unavailable-from-main-distribution>
+          </iceland>
+          <korea>
+            <south>
+              <unavailable-from-main-distribution>This texture pack is unavailable from the main distribution, and must be obtained by a third party</unavailable-from-main-distribution>
+            </south>
+            <north>
+              <unavailable-from-main-distribution>This texture pack is unavailable from the main distribution, and must be obtained by a third party</unavailable-from-main-distribution>
+            </north>
+          </korea>
+          <peoples-republic-of-china>
+            <unavailable-from-main-distribution>This texture pack is unavailable from the main distribution, and must be obtained by a third party</unavailable-from-main-distribution>
+          </peoples-republic-of-china>
+          <republic-of-china>
+            <unavailable-from-main-distribution>This texture pack is unavailable from the main distribution, and must be obtained by a third party</unavailable-from-main-distribution>
+          </republic-of-china>
+          <taiwan>
+            <unavailable-from-main-distribution>This texture pack is unavailable from the main distribution, and must be obtained by a third party</unavailable-from-main-distribution>
+          </taiwan>
+          <turkey>
+            <unavailable-from-main-distribution>This texture pack is unavailable from the main distribution, and must be obtained by a third party</unavailable-from-main-distribution>
+          </turkey>
+          <turkmenistan>
+            <unavailable-from-main-distribution>This texture pack is unavailable from the main distribution, and must be obtained by a third party</unavailable-from-main-distribution>
+          </turkmenistan>
+          <uganda>
+            <unavailable-from-main-distribution>This texture pack is unavailable from the main distribution, and must be obtained by a third party</unavailable-from-main-distribution>
+          </uganda>
+          <ukraine>
+            <unavailable-from-main-distribution>This texture pack is unavailable from the main distribution, and must be obtained by a third party</unavailable-from-main-distribution>
+          </ukraine>
+          <united-states-of-america>
+            <unavailable-from-main-distribution>This texture pack is unavailable from the main distribution, and must be obtained by a third party</unavailable-from-main-distribution>
+          </united-states-of-america>
+          <united-kingdom>
+            <unavailable-from-main-distribution>This texture pack is unavailable from the main distribution, and must be obtained by a third party</unavailable-from-main-distribution>
+          </united-kingdom>
+          <vietnam>
+            <unavailable-from-main-distribution>This texture pack is unavailable from the main distribution, and must be obtained by a third party</unavailable-from-main-distribution>
+          </vietnam>
+        </political>
+        <genitalia>
+          <!-- You will have to supply these on your own !-->
+          <breasts>
+            <unavailable-from-main-distribution>This texture pack is unavailable from the main distribution, and must be obtained by a third party</unavailable-from-main-distribution>
+          </breasts>
+          <phallic>
+            <unavailable-from-main-distribution>This texture pack is unavailable from the main distribution, and must be obtained by a third party</unavailable-from-main-distribution>
+          </phallic>
+          <buttocks>
+            <unavailable-from-main-distribution>This texture pack is unavailable from the main distribution, and must be obtained by a third party</unavailable-from-main-distribution>
+          </buttocks>
+        </genitalia>
+      </nsfw>
+      <nsfl>
+        <flesh>
+          <human>
+            <!-- You will have to supply these on your own !-->
+            <unavailable-from-main-distribution>This texture pack is unavailable from the main distribution, and must be obtained by a third party</unavailable-from-main-distribution>
+          </human>
+        </flesh>
+      </nsfl>
+    </list>
+  </patterns>
+</xml>
+<!-- Notes
+None of the patterns are currently available from GitHub
+!-->
+<!-- File info
+File type: XML source file (*.xml)
+File version: 1 (2022, Monday, June 27th at 8:12 pm PST
+Line count (including blank lines and compiler line): 136
+!-->
+<!-- End of script !-->
