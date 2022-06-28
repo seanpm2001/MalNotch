@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "MalNotch is a NSFW/NSFL texture replacement engine for the portion of a screen occupied by a notch. It is a form of software activism to help send the message that notches are annoying, and should be 100% optional to the user. If you use MalNotch, please appropriately cite it as below."
+# preferred-citation:
+  # type: data
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "MalNotch"
+version: 1.0.0
+# doi: 10.5281/zenodo.1234
+date-released: 2022-06-23
+url: "https://github.com/seanpm2001/MalNotch"
+cff-version: 1.2.0
+message: "If you use MalNotch, please cite it as below."
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Free, Libre, and Open Source NSFW/NSFL Notch texture replacement engine"
+version: 2.0.4
+doi: 10.5281/zenodo.1234
+date-released: 2021-06-23
+url: "https://github.com/seanpm2001/MalNotch"
+preferred-citation:
+  type: data
+  authors:
+  - family-names: "Myrick family"
+    given-names: "Sean P. Myrick"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  doi: "10.0000/00000"
+  journal: "MalNotch journal title"
+  month: 6
+  start: 1 # First page number
+  end: 10000 # Last page number
+  title: "MalNotch is a NSFW/NSFL texture replacement engine for the portion of a screen occupied by a notch. It is a form of software activism to help send the message that notches are annoying, and should be 100% optional to the user. If you use MalNotch, please appropriately cite it as below."
+  issue: 1
+  volume: 1
+  year: 2022
+# File info
+# File version: 1 (2022, Monday, June 27th at 8:32 pm PST)
+# File type: CFF Citation file (*.cff)
+# Line count (including blank lines and compiler line): 44
